@@ -3,7 +3,7 @@
 A simple and visually engaging **Chess Club Website** created using **HTML and CSS**.
 The website showcases the club's journey, events, community, and achievements while providing a clean chess-themed interface.
 
- **Live Demo:** chess-nine-flame.vercel.app
+ **Live Demo:** https://chess-git-main-prakshal-jain-s-projects16.vercel.app
 ## 🌟 Features
 
 * 🏠 **Home Section** – Introduction to the En Passant Chess Club.
